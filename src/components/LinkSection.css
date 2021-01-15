@@ -1,0 +1,17 @@
+.linkDiv {
+  margin-bottom: 10px;
+}
+
+.socialLink {
+  height: 50px;
+  width: 40%;
+  margin: auto;
+}
+.card.socialLink {
+  background-color: #5bd7d7;
+}
+
+.socialLink div {
+  margin: auto;
+  color: darkblue;
+}
