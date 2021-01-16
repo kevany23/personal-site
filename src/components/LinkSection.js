@@ -21,7 +21,7 @@ function SocialLink(props) {
 class LinkSection extends React.Component {
   render() {
     return (
-      <div>
+      <div className="linkSection">
         <Jumbotron style={{
           padding: "10px",
           margin: "auto",

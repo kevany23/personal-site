@@ -1,1 +1,1 @@
-# Code Repo for the landing page
+# Repo for Kevan's Landing Page

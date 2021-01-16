@@ -9,12 +9,12 @@ class Home extends React.Component {
       <div id="mainDiv">
         <div className="embedded">
         <h1>Kevan Yang</h1>
-        <h5 style={{textAlign: "center"}}>
+        <h5>
           Software Engineer
         </h5>
         </div>
         <LinkSection/>
-        <div style={{ textAlign: "center"}}>
+        <div style={{ fontSize: "0.8em" }}>
           <p>
             This site was made with ReactJS.
           </p>
