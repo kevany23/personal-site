@@ -1,0 +1,16 @@
+.projectDiv {
+  margin-top: 10px;
+  padding: 10px;
+  margin: auto;
+}
+
+.projectDescription {
+  background-color:snow;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+}
+
+.projectDiv img {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}

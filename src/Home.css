@@ -3,3 +3,8 @@
   flex-direction: column;
   text-align: center;
 }
+
+.pageSection {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

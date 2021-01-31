@@ -1,6 +1,7 @@
 import React from 'react';
 import './Home.css';
 import LinkSection from './components/LinkSection';
+import ProjectSection from './components/ProjectSection';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 class Home extends React.Component {
@@ -14,7 +15,11 @@ class Home extends React.Component {
         </h5>
         </div>
         <LinkSection/>
-        <div style={{ fontSize: "0.8em" }}>
+        <ProjectSection/>
+        <div style={{ 
+          fontSize: "0.8em",
+          marginTop: "10px"
+          }}>
           <p>
             This site was made with ReactJS.
           </p>
