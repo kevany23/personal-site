@@ -11,7 +11,7 @@ class Home extends React.Component {
         <div className="embedded">
         <h1>Kevan Yang</h1>
         <h5>
-          Software Engineer, Web Developer
+          Software Engineer
         </h5>
         </div>
         <LinkSection/>
