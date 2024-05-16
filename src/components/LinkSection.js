@@ -27,7 +27,7 @@ class LinkSection extends React.Component {
           margin: "auto",
           width: "60%"
         }}>
-          <h4 style={{ textAlign: "center" }}>Links</h4>
+          <h3 style={{ textAlign: "center" }}>Links</h3>
           <SocialLink name="LinkedIn" url=""/>
           <SocialLink name="GitHub" url=""/>
           <SocialLink name="LeetCode" url=""/>
